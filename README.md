@@ -21,7 +21,7 @@
 
 - [ ] Add a custom icon (favicon.ico) to the compiled executable.
 
-- [ ] Compress the executable with MPRESS.
+- [ ] Compress the executable with MPRESS and then press on CONVERT.
 
 To make the script run on startup:
 
