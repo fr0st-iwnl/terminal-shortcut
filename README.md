@@ -1,7 +1,7 @@
+<h2 align="center">Terminal Shortcut</h2>
 
-# Terminal Shortcut
-
-❗❗ This terminal shortcut is an AutoHotkey script I've made for my personal use on my devices
+  <p align="center">
+    ❗❗ This terminal shortcut is an AutoHotkey script I've made for my personal use on my devices
 
 ## How to install/use the shortcut key:
 
