@@ -3,6 +3,10 @@
   <p align="center">
     ❗❗ This terminal shortcut is an AutoHotkey script I've made for my personal use on my devices
 
+##❗ ATTENTION READ CAREFULLY
+
+
+
 ## How to install/use the shortcut key:
 
 - [ ] Install AutoHotkey V1.1 (Deprecated): [Download AutoHotkey](https://autohotkey.com).
