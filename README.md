@@ -3,7 +3,7 @@
   <p align="center">
     ❗❗ This terminal shortcut is an AutoHotkey script I've made for my personal use on my devices
 
-##❗ ATTENTION READ CAREFULLY
+## ATTENTION READ CAREFULLY
 
 
 
