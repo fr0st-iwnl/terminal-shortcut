@@ -23,7 +23,7 @@
 
 - [ ] Compress the executable with MPRESS and then press on CONVERT.
 
-# To make the script run on startup:
+### To make the script run on startup:
 
 - [ ] Press Win + R to open the Run dialog, then type `shell:startup` and hit Enter.
 
