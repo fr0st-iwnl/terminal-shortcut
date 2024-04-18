@@ -1,4 +1,4 @@
-<h2 align="center">Terminal Shortcut</h2>
+<h2 align="center">Terminal Shortcut (CTRL + ALT + T)</h2>
 
   <p align="center">
     ❗❗ This terminal shortcut is an AutoHotkey script I've made for my personal use on my devices
